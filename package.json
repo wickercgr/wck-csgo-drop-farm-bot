@@ -1,0 +1,17 @@
+{
+  "name": "wck-drop-farm-bot",
+  "version": "8.0.0",
+  "description": "wck-drop-farm-bot",
+  "main": "main.js",
+  "author": {
+    "name": "wicker"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.10.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "wio.db": "^4.0.22"
+  }
+}
